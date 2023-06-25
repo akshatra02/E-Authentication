@@ -1,2 +1,4 @@
-# E-Authentication
-User authentication with OTP and Facial Recognition
+# login-verification
+Login Verification using Face Recognition
+
+Checkout this Video for Reference (https://youtu.be/fccOCWJ5ZFU)
