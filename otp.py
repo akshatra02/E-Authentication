@@ -1,8 +1,8 @@
 from tkinter import *
 import smtplib
 def send_message():
-    sender_email="m.akshatra02@gmail.com"
-    sender_password ="@malayalam02"
+    sender_email="email"
+    sender_password ="password"
 
     server=smtplib.SMTP('smtp.gmail.com',587)
     server.starttls()
